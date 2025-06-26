@@ -1,5 +1,5 @@
 
-# 🎸 Musical Instrument Selling System (Web-Based)
+# 🎸 Musical Instrument Selling System 
 
 ## 🧠 Introduction
 
